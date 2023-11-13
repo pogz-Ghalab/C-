@@ -1,0 +1,6 @@
+DOCUMENTATION ABOUT SFML ENCAPSULATION
+
+Graphical part
+ON this encapsulation we have all the functions needed to create a simple game
+For example:
+

@@ -1,0 +1,10 @@
+{
+    "Enemies": [
+        {"title": "enemy1", "path": "../Config/Enemy1.json"},
+        {"title": "enemy2", "path": "../Config/Enemy2.json"},
+        {"title": "enemy3", "path": "../Config/Enemy3.json"},
+        {"title": "boss1", "path": "../Config/Bos1.json"},
+        {"title": "boss2", "path": "../Config/Bos2.json"},
+        {"title": "boss3", "path": "../Config/Bos3.json"}
+    ]
+}

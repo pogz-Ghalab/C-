@@ -1,0 +1,10 @@
+{
+    "enemy3": {
+       "health": [10],
+       "hitbox": [20, 20],
+       "rect": [150, 150],
+       "type": ["ENEMY3"],
+       "damage": [2],
+       "velocity": [4]
+    }
+}

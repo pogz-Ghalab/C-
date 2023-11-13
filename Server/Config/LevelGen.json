@@ -1,0 +1,9 @@
+{
+    "Levels": [
+        {"title": "lvl1", "path": "../Config/Level1.json"},
+        {"title": "lvl2", "path": "../Config/Level2.json"},
+        {"title": "lvl3", "path": "../Config/Level3.json"},
+        {"title": "lvl4", "path": "../Config/Level4.json"},
+        {"title": "lvl5", "path": "../Config/Level5.json"}
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "boss1": {
+       "health": [25],
+       "hitbox": [20, 20],
+       "rect": [350, 350],
+       "type": ["BOSS1"],
+       "damage": [15],
+       "velocity": [10]
+    }
+}

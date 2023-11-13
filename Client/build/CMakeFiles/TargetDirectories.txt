@@ -1,0 +1,3 @@
+/home/pogba/Desktop/Y3/Advance++/R-type/Client/build/CMakeFiles/client.dir
+/home/pogba/Desktop/Y3/Advance++/R-type/Client/build/CMakeFiles/edit_cache.dir
+/home/pogba/Desktop/Y3/Advance++/R-type/Client/build/CMakeFiles/rebuild_cache.dir
